@@ -27,16 +27,19 @@ const categories = [
         id: 1,
         img: "https://i.pinimg.com/236x/d8/95/2b/d8952b748f22240fe38fa62b3e9249a2.jpg",
         title: "SUMMER STYLE",
+        cat: "jacket"
     },
     {
         id: 2,
         img: "https://i.pinimg.com/236x/cc/03/8c/cc038cb759a25e1fb322d68876b38cdb.jpg",
         title: "LOUNGEWEAR STYLE",
+        cat: "shirt"
     },
     {
         id: 3,
         img: "https://i.pinimg.com/236x/c5/5f/79/c55f79403b13a3e6e7a96e47dba575ac.jpg",
         title: "CUTE STYLE",
+        cat: "dress"
     },
 ]
 
@@ -45,11 +48,13 @@ const popularProducts = [
         id: 1,
         img: "https://i.pinimg.com/236x/ed/60/46/ed6046438b3ff8b9940ae2ee694ee757.jpg",
         title: "JACKET",
+   
     },
     {
         id: 2,
         img: "https://i.pinimg.com/236x/29/d1/37/29d137feda98f9220adb2daa8421f599.jpg",
         title: "SHIRT",
+
     },
     {
         id: 3,
